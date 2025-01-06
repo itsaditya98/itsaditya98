@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @itsaditya98
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning and Cloud Computing.
+- 👀 I’m interested in ML and DevOps
 - 💞️ I’m looking to collaborate on machine learning projects 
-- 📫 How to reach me ... ? Reach me at adityavinayak1648@gmail.com
+- 📫 Reach me at aditya.iro698s@gmail.com
 
 <!---
 itsaditya98/itsaditya98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
